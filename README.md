@@ -1,6 +1,6 @@
 # Gstn_Hackathon-2024
 My Team was able to achieve a **97.58%** accuracy on a predictive model using **Random Forest** training algorithm for the problem statement given for the [GST Hackathon](https://innovateindia.mygov.in/online-challenge-for-developing-a-predictive-model-in-gst/ "About gst hackathon")
-<br>Please find the detailed solution in the python [file1](https://github.com/MeenaCherukuri/Gstn_Hackathon/blob/main/gstn%20hackathon-final.pdf "About all algorithms") and [file2](https://github.com/MeenaCherukuri/Gstn_Hackathon/blob/main/Random_Forest.pdf "About Random Forest metrics").  Also, there is a python [Google Colab](https://colab.research.google.com/drive/1Dj2ZciIako1es8NtCRhEg2wrr6J_goL8 "Drive") which contains preliminary work done by My Team.<br>
+<br>Please find the detailed solution in the python notebook [file1](https://github.com/MeenaCherukuri/Gstn_Hackathon/blob/main/gstn%20hackathon-final.pdf "About all algorithms") and [file2](https://github.com/MeenaCherukuri/Gstn_Hackathon/blob/main/Random_Forest.pdf "About Random Forest metrics").  Also, there is a python [Google Colab](https://colab.research.google.com/drive/1Dj2ZciIako1es8NtCRhEg2wrr6J_goL8 "Drive") which contains preliminary work done by My Team.<br>
 # Get Started
 This repository contains code and data analysis for the submission of **Analytics Hackathon on Developing a Predictive Model in GST** by **My team**.
 <br>Please follow the below instructions to validate the results of the predictive model.
