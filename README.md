@@ -78,13 +78,14 @@ The peformance of these models can vary depending on the specific characteristic
 - Neural Networks: Excellent<br>
 - Naive Bayes: Fair.<br>
 ## Result
-|Type|Accuracy|Precision|Recall|F1 Score|
+|Prototype|Accuracy|Precision|Recall|F1 Score|
 |---|---|---|---|---|
 |Logistic Regression|0.968|0.802|0.882|0.8405|
 |Decision Tree|0.9673|0.8266|0.8306|0.8286|
 |Standard Scaler|0.9688|0.8028|0.8813|0.8403|
 |Naive Bayes|0.9589|0.7304|0.8949|0.8043|
 |Artificial Neural Networks|0.9756|0.8202|0.9496|0.8802|
+|Ada Boost|0.9754|0.8240|0.9418|0.8790|
 |Random Forest|0.9758|0.8437|0.9129|0.8769|
 ## Final Submission
 ### Modelling Approach
@@ -96,15 +97,13 @@ Since we are not given the relationship between the columns and their definition
 |Training Accuracy|0.9975|
 |Testing Accuracy|0.9765|
 |Precision|0.8437|
-|Training Precision|0.9840|
-|Testing Precision|0.8470|
 |Recall|0.9129|
-|Validation Recall |0.9162|
-|Testing Recall|0.9172|
 |F1 Score|0.8769|
-|Validation F1 Score|0.8803|
-|Testing F1 Score|0.8809|
-|Validation ROC AUC|0.9938|
-|Testing ROC AUC|0.9940|
+|ROC AUC|0.9925|
+#### Confusion Matrix
+| |Predictive Negative|Predictive Positive|
+|---|---|---|
+|Actual Negative|21796|409|
+|Actual Positive|228|2055|
 ### Conclusion
 Our comparative analysis reveals that **Random Forest** achieved the highest accuracy of **97.58%**, outperforming other algorithms, making it the optimal choice for Predictive Model in GST.
